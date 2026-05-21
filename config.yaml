@@ -1,0 +1,28 @@
+sources:
+  - https://p30-calendars.icloud.com/holidays/us_en.ics
+  - https://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+  - https://ics.calendarlabs.com/41/b498d410/Christian_Holidays.ics
+
+include:
+  - "Valentine’s Day"
+  - "Ash Wednesday"
+  - "Daylight Saving Time"
+  - "St. Patrick’s Day"
+  - "Palm Sunday"
+  - "Good Friday"
+  - "Easter"
+  - "Mother’s Day"
+  - "Father’s Day"
+  - "Halloween"
+  - "Daylight Saving Time End"
+  - "Election Day"
+  - "Christmas Eve"
+  - "All Hallows Eve"
+
+
+
+exclude:
+  - "Lammas"
+
+
+
